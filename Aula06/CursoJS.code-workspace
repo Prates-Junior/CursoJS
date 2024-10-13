@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Web hacking intro/HTML/Meu Site"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CursoJS"
+	}
+}
